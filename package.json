@@ -1,0 +1,25 @@
+{
+  "name": "salt-spring19-hackdayw09",
+  "version": "1.0.0",
+  "description": "## Individual hack day!",
+  "main": "phaser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsthlm/salt-spring19-hackdayW09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsthlm/salt-spring19-hackdayW09/issues"
+  },
+  "homepage": "https://github.com/saltsthlm/salt-spring19-hackdayW09#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
